@@ -1,0 +1,15 @@
+
+table{
+	font-family: sans-serif;
+	color: #444;
+	border-collapse: collapse;
+	width: 50%;
+	border: 2px solid #f2f5f7;
+	margin-top: 50px;
+	text-align: center;
+}
+table tr th{
+	background: #35a9db;
+	color: #fff;
+	font-weight: normal;
+}
